@@ -1,6 +1,6 @@
 ### Hi, I'm Ilnur 👋
 
-**Full-Stack & Mobile Engineer** — 15+ years shipping products from idea to launch.
+***Full-Stack & Mobile Engineer*** — 15+ years shipping products from idea to launch.
 
 I work across the stack: SwiftUI on iOS, React/React Native on the frontend, Node/Next/Rails/Python on the backend. I like small teams, fast iteration, and products that actually ship.
 
