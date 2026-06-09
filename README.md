@@ -36,5 +36,5 @@ Looking for **Full-Stack or iOS roles** at product-driven startups. Remote-frien
 
 <p align="center">
   <img src="https://github-readme-stats-nine-mu-cpc1i1xc4d.vercel.app/api?username=thander&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="thander GitHub stats" />
-  <img src="https://github-readme-stats-nine-mu-cpc1i1xc4d.vercel.app/api/top-langs/?username=thander&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats-nine-mu-cpc1i1xc4d.vercel.app/api/top-langs/?username=thander&layout=compact&langs_count=10&count_private=true&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
