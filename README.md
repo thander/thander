@@ -22,8 +22,11 @@ I work across the stack: SwiftUI on iOS, React/React Native on the frontend, Nod
 
 - **Frontend:** React · Next.js · TypeScript
 - **Mobile:** React Native · SwiftUI · iOS · Kotlin Multiplatform
-- **Backend:** Node.js · Ruby on Rails · Python · PHP · PostgreSQL · MongoDB
-- **Infra:** Docker · CI/CD
+- **Backend:** Node.js · Ruby on Rails · Python · PHP · REST APIs
+- **Databases & Queues:** PostgreSQL · MongoDB · MySQL · Redis · BullMQ
+- **Real-time:** WebSockets · Real-time Messaging
+- **Infrastructure:** Docker · Docker Swarm · Nginx · CI/CD · GitHub Actions · Cloudflare R2
+- **AI Integrations:** OpenAI API · AI Support Assistants · Image Recognition
 
 ---
 
