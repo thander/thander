@@ -11,9 +11,10 @@ I work across the stack: SwiftUI on iOS, React/React Native on the frontend, Nod
 - **[SMS Virtual](https://www.smsvirtual.org)** — virtual phone number service. Built the customer support platform with real-time messaging, AI-assisted replies, GPT-powered screenshot recognition, and support analytics.
 - **[Type.link](https://type.link)** — website builder & creator platform. Core engineer (backend + frontend + RN mobile apps). 🥈 **Product of the Day #2 on Product Hunt**.
   Mobile: [App Store](https://apps.apple.com/us/app/website-builder-typelink/id6748961241) · [Google Play](https://play.google.com/store/apps/details?id=com.typelink.app)
-- **[Siter.io](https://siter.io)** — no-code website builder. 🥇 **Product of the Day on Product Hunt**.
+- **[Siter.io](https://siter.io)** — no-code website builder. 🥇 **Product of the Day on Product Hunt**. Worked on its [Figma-to-website plugin](https://www.figma.com/community/plugin/1014191120140241695/export-figma-to-websites-and-html-by-siter-io), including Auto Layout support, font handling, and image export.
 - **[Apphud](https://apphud.com)** — subscription analytics for mobile apps. Part of the founding team that reached **Y Combinator final interview (2019)**.
 - **[InvoicePal](https://apps.apple.com/us/app/invoice-maker-invoice-pal/id6469039107)** — modern invoice maker for iOS. Led the full relaunch on SwiftUI with Apple's Liquid Glass design language.
+- **[Shakebar](https://play.google.com/store/apps/details?id=com.kmpapps.shakebar)** — cocktail app built with Kotlin Multiplatform for iOS and Android. Developed shared business logic, recipe search, favorites, photo scanning, and an AI cocktail generator.
 
 
 ---
